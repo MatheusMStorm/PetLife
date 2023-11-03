@@ -1,9 +1,9 @@
 # PetLife
 
-Projeto de programação web do site PetLife feito durante o curso Start na Programação da OneBitCode
+Projeto de programação web do site PetLife feito durante o curso Start na Programação da OneBitCode.
 
 ## Ferramentas utilizadas
 
-![HTML](https://img.shields.io/badge/HTML-FFFF00?style=for-the-badge&logo=html&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML-FFFF00?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAAACXBIWXMAAAsTAAALEwEAmpwYAAACeklEQVR4nO2ZQYhNYRTHf4MaWRAhFmNsZISRBTZYPbuxYkVZMBEpbJCSlyIbMiKKDakpiozdMIVodmTUSKwmFsakoVGamKevzpS+znfdme988266vzo1vc77/89/5r1zv3sHSkpK/mtWA31ArU7VB6yKCfCwjsPXpLpiAvQWIEBvTICuAgR4EBPgRgECXI8JcLYAAc7EBDhSgACHYwLsDIjOxp5ZAa8dMaJbAqLLsKcp4FWJEV0TEN2IPWsDXq0xoosDotuwpxLwWhQjOgP4rYju9/ouJvoCj8kMUQwpwlWv50SiAF8w4K0ifNXraU8UoN8iwFNF+J7XszVRgCcWAe4qwi+8ng2JAtyxCHBFEX6PPc8Un8sWwlVF+Dv2vFN8TlkIHwj8ed2l35LhHOt6UmwPBFiKHTNTXjA3J/hyfvA8lgT6NlkEaEkQwN9i6wJ9yy0CzEsQ4L7n0Rbom2sRoAEYVcT35Vi3obrmvXeP0jMq3iZ8UgxO5li3oTqd4yz1EUNeKQaXcq5brQ567+1Qel5aBuhWDDq9nlb5bA9mDP5ZzlHuRulvOpVe52nGbcWgJ6N/hZxQb0q1yzYL0aPoO08zLigGbwz1+xX984b6HFcMhv7xW81LC/BV0XeeZmhrbry+AY+AY3Kz35ihMx1YCeyVo/Jghu5uywChC41WI8BjWasVqap8zkcmoNNmGSDVDUsto9ZbBmiuQ4BmywANsnWmavjXlseIcRYC54CBhIMPiMcCEjJNtk2HPLeJHXoYuCVPNtyWmlIaxdgN8GMCQ/+U/7/tSnBrOmnmyEBusF/K0O4R5XPgEDCfgtMEHJUDWbf87F4rKaFg/AGa9FFsssk1BgAAAABJRU5ErkJggg==&logoColor=black)
 ![CSS](https://img.shields.io/badge/CSS-FFFF00?style=for-the-badge&logo=css&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/JavaScript-FFFF00?style=for-the-badge&logo=javascript&logoColor=black)
